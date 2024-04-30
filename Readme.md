@@ -1,6 +1,6 @@
 # Fesco Bill Online
 
-Welcome to Fesco Bill Online is a free website that allow you to check your fesco bill online by entering your 14-digit reference number.
+Welcome to Fesco Bill Online!
 
 ## About
 
